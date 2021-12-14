@@ -1,0 +1,9 @@
+Package: 7-zip
+Version: 21.06
+Architecture: arm64
+Priority: optional
+Section: utils
+Maintainer: Junyi Shi <hmsjy2019@gmail.com>
+Depends: libc6 (>= 2.17), libgcc1 (>= 1:3.0), libstdc++6 (>= 5)
+Homepage: https://www.7-zip.org
+Description: 7-Zip is a file archiver with a high compression ratio.
